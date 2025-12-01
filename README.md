@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋, I’m Omar Atallah
+📚 Student / Mobile & Web Developer
 
-<!--
-**omarAtallah77/omarAtallah77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Currently studying and building projects using Flutter, Android (Kotlin), C# (.NET / Windows Forms), ASP.NET, Firebase, Streamlit.
+🚀 I love building apps: mobile chat apps, note apps, web apps, and more.
+🌱 Always learning new tech and improving code quality, architecture, UI/UX.
+🛠️ Tech Stack & Tools
+Mobile	Web / Backend	Database / Cloud	Tools & Others
+Flutter (Dart) / Android (Kotlin)	ASP.NET / C# / Windows Forms	SQLite / Room / Firebase Firestore / SQL Server	Git, GitHub, GitHub Actions, VS Code / Visual Studio, Firebase, Streamlit
+📂 Featured Projects (click to open)
+Project	Description
+Chatting-App	A Flutter social chat app — real-time messaging, user search, presence status, media sharing.
+Online Shopping Website (ASP.NET + SQL Server)	E-commerce web application with product management & user login/signup.
+NotesApp_Android	Android app using Room database to save, update and delete notes.
+Streamlit Business Q&A Tool	A simple web tool to let customers submit questions via email; saves data to CSV.
+College Progress Tracker (Flutter) (in progress)	Progress tracker with charts for courses & GPA over 4 years.
+Check full list of repos on my profile — many are small utilities, experiments or school projects.
 
-Here are some ideas to get you started:
+🧑‍💻 What I’m Learning & Interested In
+✨ Improving UI/UX — responsive design, clean code.
+🔄 Flutter ➝ Web & Desktop (cross-platform) + ASP.NET backend integration.
+⚙️ Version control, CI/CD, code quality (clean architecture, testing).
+🤝 Contributing to open-source projects (especially Flutter / .NET).
+📫 Contact / Find Me Online
+LinkedIn: linkedin.com/in/omar-atallah-780a53212
+GitHub: github.com/omarAtallah77
+Email: omaratallah077@gmail.com
+📊 GitHub Stats
+GitHub stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun Fact
+I started coding in college and love turning school assignments into real apps.
+Learning and building is the best way to grow — every bug is a lesson 😉
