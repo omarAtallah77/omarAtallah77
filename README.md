@@ -23,10 +23,11 @@
 | Project | Description |
 |--------|-------------|
 | **Chatting-App** | A Flutter social chat app — real-time messaging, user search, presence status, media sharing. |
-| **Online Shopping Website (ASP.NET + SQL Server)** | E-commerce web application with product management & user login/signup. |
+| **News App** | Fetches latest news from API and displays in a clean interface with categories. |
 | **NotesApp_Android** | Android app using Room database to save, update and delete notes. |
-| **Streamlit Business Q&A Tool** | A simple web tool to let customers submit questions via email; saves data to CSV. |
-| **College Progress Tracker (Flutter)** *(in progress)* | Progress tracker with charts for courses & GPA over 4 years. |
+| **Weather App** | Displays real-time weather info based on location, with nice UI and forecasts. |
+| **E-Commerce App**  | Online shopping app with product listing, login/signup, cart, and checkout. |
+| **Movies App**  | Browse movies, see details, and search using a movie API with a sleek Ui. |
 
 > *Check full list of repos on my profile — many are small utilities, experiments or school projects.*
 
