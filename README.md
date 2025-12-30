@@ -1,8 +1,8 @@
 # Hi there 👋, I’m Omar Atallah
 
-**📚 Student / Mobile & Web Developer**  
-- 🎯 Currently studying and building projects using **Flutter, Android (Kotlin), C# (.NET / Windows Forms), ASP.NET, Firebase, Streamlit**.  
-- 🚀 I love building apps: mobile chat apps, note apps, web apps, and more.  
+**📚 Student / Android & Flutter Developer**  
+- 🎯 Currently studying and building projects using **Flutter, Android (Kotlin), Java, Firebase.  
+- 🚀 I love building apps: mobile chat apps, note apps,news apps, and more.  
 - 🌱 Always learning new tech and improving code quality, architecture, UI/UX.
 
 ---
@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-| Mobile | Web / Backend | Database / Cloud | Tools & Others |
+| Mobile | Database / Cloud | Tools & Others |
 |--------|--------------|-----------------|----------------|
 | Flutter (Dart) / Android (Kotlin) | ASP.NET / C# / Windows Forms | SQLite / Room / Firebase Firestore / SQL Server | Git, GitHub, GitHub Actions, VS Code / Visual Studio, Firebase, Streamlit |
 
